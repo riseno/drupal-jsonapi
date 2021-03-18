@@ -19,9 +19,9 @@
         }
     ],
     "require": {
+        "php": "^7.3|^8.0",
+        "guzzlehttp/guzzle": "^7.2",
         "illuminate/support": "^8.12",
-        "php" : "^7.3|^8.0",
-        "php-http/guzzle6-adapter": "^2.0.0",
         "woohoolabs/yang": "^1.2.1"
     },
     "require-dev": {
